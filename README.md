@@ -3,4 +3,4 @@
 
 <br />
 
-- When running this code if you select any particular date and click on get date, it'll display the date as dd/mm/yyyy order below 'Get Date' button. 
+- When running this code if you select any particular date and click on 'Get Date', it'll display the date as dd/mm/yyyy order below 'Get Date' button. 
